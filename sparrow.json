@@ -1,7 +1,7 @@
 {
 
-  "name" : "aws-list-private-images"
-  "desciption" : "list private aws images"
+  "name" : "aws-list-private-images",
+  "desciption" : "list private aws images",
   "version" : "0.0.1",
   "sparrow_version": "0.2.48",
   "categories" : "utilities",
